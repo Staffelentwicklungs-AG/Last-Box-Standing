@@ -32,3 +32,6 @@ Character<br/>
 Centerd in the canvas, moving with keyboard and mouse. Mouse cursor is used for aiming. Orientation as a whole. 
 Leveldesign<br/>
 Big Box should be a big place with different distinct areas. Assets in general will be boxy. Since Big Box shrinks in time, Assets in the Deadzone continue to fall apart from the world and if a character stays outside the Fight Zone, they will have a chance to return to it.
+
+Sources
+	GameScene.BackgroundImage https://www.freepik.com/free-photo/vibrant-night-sky-with-stars-nebula-galaxy_10181122.htm#fromView=image_search_similar&page=1&position=30&uuid=78960348-0791-42d3-8b39-16c9e0f4b744&query=Night+Sky
